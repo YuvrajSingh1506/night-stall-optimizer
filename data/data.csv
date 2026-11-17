@@ -1,0 +1,26 @@
+timestamp,order_id,customer_group,item,qty,unit_price_inr,total_inr,payment_method,milk_consumed_ml,eggs_raw_used,eggs_boiled_used,notes
+21:55:20,ORD-101,G-1,cutting_chai,2,12,24,UPI,140,0,0,Two students from library; scanned Paytm QR
+21:57:10,ORD-102,G-2,boiled_egg,1,12,12,Cash,0,0,1,Rickshaw driver paid exact ₹12 (₹10 note + ₹2 coin)
+21:58:45,ORD-103,G-2,cutting_chai,1,12,12,Cash,70,0,0,Same driver had chai while eating egg
+22:01:15,ORD-104,G-3,single_omelette,1,25,25,UPI,0,1,0,Local resident walking dog; paid via GPay
+22:02:40,ORD-105,G-4,cutting_chai,3,12,36,UPI,210,0,0,Group of 3 friends standing near tree
+22:03:10,ORD-106,G-4,egg_maggi,1,50,50,UPI,0,1,0,Added to G-4 group order; 1 raw egg into Maggi
+22:05:55,ORD-107,G-5,masala_chai,1,15,15,Cash,80,0,0,Gave ₹50 note; Manoj bhaiya searched box for ₹35 change
+22:07:30,ORD-108,G-6,boiled_egg,2,12,24,Cash,0,0,2,Gym attendee on motorbike; took boiled eggs with pepper
+22:09:20,ORD-109,G-7,double_omelette,1,45,45,UPI,0,2,0,Asked for extra green chillies and onions
+22:11:05,ORD-110,G-8,cutting_chai,2,12,24,UPI,140,0,0,Photo 1 taken right here at 22:11 while chai was poured
+22:11:40,ORD-111,G-8,plain_maggi,1,35,35,UPI,0,0,0,Same group companion; 1 pack yellow Maggi
+22:13:15,ORD-112,G-9,cutting_chai,1,12,12,Cash,70,0,0,Passerby with bicycle; paid ₹20 note received ₹8 change
+22:14:50,ORD-113,G-10,egg_bhurji,1,50,50,UPI,0,2,0,Two eggs whisked with onions and pav on side
+22:16:30,ORD-114,G-10,cutting_chai,2,12,24,UPI,140,0,0,Chai served right after bhurji
+22:18:05,ORD-115,G-11,boiled_egg,1,12,12,Cash,0,0,1,Security guard on night shift break; paid ₹12 cash
+22:19:40,ORD-116,G-12,single_omelette,2,25,50,UPI,0,2,0,Two separate single omelettes back-to-back
+22:21:10,ORD-117,G-13,cutting_chai,4,12,48,UPI,280,0,0,Large batch pour; opened new 500ml milk pouch
+22:22:50,ORD-118,G-13,plain_maggi,2,35,70,UPI,0,0,0,Same college hostel group
+22:24:15,ORD-119,G-14,masala_chai,2,15,30,Cash,160,0,0,Paid ₹30 cash (three ₹10 notes)
+22:25:40,ORD-120,G-15,double_omelette,1,45,45,UPI,0,2,0,Late night IT worker returning from shift
+22:26:55,ORD-121,G-16,boiled_egg,1,12,12,Cash,0,0,1,Only 2 boiled eggs remaining in tray now
+22:28:10,ORD-122,G-17,cutting_chai,1,12,12,UPI,70,0,0,Quick tea while waiting for auto
+22:29:35,ORD-123,G-18,egg_maggi,2,50,100,UPI,0,2,0,Two egg maggis cooked together in big pan
+22:31:00,ORD-124,G-19,cutting_chai,2,12,24,Cash,140,0,0,Paid ₹50 note; vendor returned ₹26 change
+22:32:45,ORD-125,G-20,single_omelette,1,25,25,UPI,0,1,0,Last order observed before concluding 20-min session
