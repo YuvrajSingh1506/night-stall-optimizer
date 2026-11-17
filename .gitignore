@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw files & candidate personal prep guides (local only)
+CALL_PREP_CHEATSHEET.md
+VIDEO_RECORDING_GUIDE.md
+*.docx
+WhatsApp Image*
+WhatsApp Video*
