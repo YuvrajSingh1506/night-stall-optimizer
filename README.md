@@ -24,7 +24,6 @@ This tool (`stall_optimizer.py`) reads real-world sequential order data (`data/d
 
 ```
 .
-├── 1-Day Take-Home Assignment for B.Tech Graduates (1).docx  # Original assignment brief
 ├── data/
 │   └── data.csv                         # 25 real sequential transactions collected on 17-Nov-2026
 ├── photos/
