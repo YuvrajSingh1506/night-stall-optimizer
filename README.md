@@ -4,7 +4,7 @@
 > **Person Helped**: Manoj Kumar (Owner & sole cook, "Manoj Chai & Omelette Corner")  
 > **Place**: Roadside cart at Main Hostel Crossing (350 meters from accommodation)  
 > **Observation Date**: 17 November 2026, 21:50 – 22:35 IST  
-> **Screen Recording Walkthrough (3-min)**: `https://drive.google.com/file/d/1JqsRHMGhoemqUGflYk1_dswVp_XrYYpt/view?usp=sharing` 
+> **Screen Recording Walkthrough (3-min)**: <https://drive.google.com/file/d/1JqsRHMGhoemqUGflYk1_dswVp_XrYYpt/view?usp=sharing> 
 
 ---
 
